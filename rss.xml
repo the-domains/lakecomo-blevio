@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[LakeComo-Blevio]]></title>
         <description><![CDATA[LakeComo-Blevio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lakecomo-blevio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 09:18:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 09:19:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lakecomo-blevio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From the sky]]></title>
+            <description><![CDATA[<article><h1>From the sky</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90729746-98f4-4321-82bf-e4af9bb852fa.png"></article>]]></description>
+            <link>https://thegrid.ai/lakecomo-blevio/from-the-sky/index.html</link>
+            <guid isPermaLink="false">22232da8-00db-4133-b3a5-527a943d5164</guid>
+            <pubDate>Mon, 28 Mar 2016 09:19:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blevio - Wikipedia, the free encyclopedia]]></title>
             <description><![CDATA[<article><h1>Blevio - Wikipedia, the free encyclopedia</h1><p>Blevio ( Lombard: Biev or Blef (Western Lombard)) is a (municipality) in the Province of Como in the Italian region Lombardy, located about 40 kilometres (25 mi) north of Milan and about 2 kilometres (1 mi) northeast of Como. It overlooks the eastern shore of Lake Como from hilly slopes starting at more than 200 metres (660 ft).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dca0d64d81284d50109db4fd279d1aa8b5d00d79.jpg"></article>]]></description>
