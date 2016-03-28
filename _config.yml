@@ -1,28 +1,40 @@
-name: LakeComo-Blevio
 favicon: null
-layout_spectrum: 0.8316687543410808
-typography_spectrum: 0.04009510204195976
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: LakeComo-Blevio
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7598566
+  brandStrength: 0.9584619312081486
+  lightness: 0.718638
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9584619312081486
-  lightness: 0.8702447493560612
-  saturation: 0.6774954712018371
-  rhythmicContrast: 0.3883512739557773
-purpose: []
+  rhythmicContrast: 0.5
+typography_spectrum: 0.04009510204195976
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8316687543410808
+analytics:
+  twitter: null
+  google: null
+  facebook: null
