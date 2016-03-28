@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LakeComo-Blevio]]></title>
+        <description><![CDATA[LakeComo-Blevio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 09:18:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blevio - Wikipedia, the free encyclopedia]]></title>
+            <description><![CDATA[<article><h1>Blevio - Wikipedia, the free encyclopedia</h1><p>Blevio ( Lombard: Biev or Blef (Western Lombard)) is a (municipality) in the Province of Como in the Italian region Lombardy, located about 40 kilometres (25 mi) north of Milan and about 2 kilometres (1 mi) northeast of Como. It overlooks the eastern shore of Lake Como from hilly slopes starting at more than 200 metres (660 ft).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dca0d64d81284d50109db4fd279d1aa8b5d00d79.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Blevio</link>
+            <guid isPermaLink="false">9f97bc26-6855-4439-9807-e3e6a5b1c556</guid>
+            <pubDate>Mon, 28 Mar 2016 09:18:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
